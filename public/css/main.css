@@ -5284,3 +5284,11 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+#projets .card {
+    overflow: hidden;
+}
+
+#projets .card:hover {
+    transform: translateY(-4px);
+    transition: 0.3s ease;
+}
