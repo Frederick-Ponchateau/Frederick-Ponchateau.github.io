@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://frederick-ponchateau.github.io/sitemap.xml
